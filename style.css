@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    border: 2px solid black;
+    width: 100vw;
+    height: 12vh;
+    background-color: red;
+}
+.header > img {
+       width: 15vh;
+       position: relative;
+       left: 13px;
+
+}
+
+.header > .conatineradress {
+    width:600px;
+    height:30px;
+    position: relative;
+    display: block;
+    top: 2.5px; 
+    position:  relative;
+    top: 12px;
+    top: -57px;
+    left: 117px;
+}
+.header > .conatineradress  .conatineradress1 {
+    border: 2px solid black;
+    width:600px;
+    height:30px;
+    padding: 1px;
+    border-radius: 8px;
+    position: relative;
+    left: 211px;
+    top: -20px;
+}
